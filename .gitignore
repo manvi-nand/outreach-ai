@@ -1,0 +1,13 @@
+# Secrets
+.env
+gmail_token.json
+
+# Local data (contacts, drafts, uploaded resumes)
+outreach.db
+uploads/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.DS_Store
